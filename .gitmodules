@@ -1,3 +1,7 @@
 [submodule "spring-mvc-google-cloud"]
 	path = spring-mvc-google-cloud
 	url = https://github.com/sumedha1101/spring-mvc-google-cloud.git
+
+[submodule "spring/cucumber-spring"]
+	path = spring/cucumber-spring
+	url = https://github.com/sumedha1101/cucumber-spring.git
