@@ -1,0 +1,3 @@
+[submodule "spring-mvc-google-cloud"]
+	path = spring-mvc-google-cloud
+	url = https://github.com/sumedha1101/spring-mvc-google-cloud.git
